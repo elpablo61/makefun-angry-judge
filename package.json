@@ -1,0 +1,1 @@
+{"description":"A short rant about the colleague who keeps circling back, for the Angry Judge contest on make.fun","license":"MIT","main":"main.ts","name":"makefun-angry-judge","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
